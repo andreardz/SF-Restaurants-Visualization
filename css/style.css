@@ -1,0 +1,23 @@
+body {
+	font-family: sans-serif;
+	font-size: 12px;
+}
+.navBar {
+	stroke: black;
+	stroke-width: 1;
+	font-size: 12px;
+}
+.pointOfInterest {
+	r: 1;
+}
+.outerRadius {
+	fill-opacity: 0.5;
+}
+.highlightedRestaurants {
+	r: 3;
+	fill: #6600cc;
+}
+.allRestaurants {
+	r: 3;
+	fill: lightgray;
+}
